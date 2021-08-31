@@ -160,7 +160,7 @@ html {
     height: 100vh; /*100% viewport*/
     
     max-width: 100%;
-    background-image: url('/images/background_wood_decking-grey.jpg');
+    background-image: url('images/background_wood_decking-grey.jpg');
     background-color: #333;
     background-position: center center;
     background-attachment: fixed;
@@ -206,7 +206,7 @@ html {
 
     height: 104vh; 
     max-width: 100%;
-    background-image: url('/images/footer_lodyas.png');
+    background-image: url('images/footer_lodyas.png');
     background-repeat: repeat;
     background-color: #222;
     background-attachment: fixed;
@@ -311,7 +311,7 @@ html {
 /* Section 3 */
 .section-3 {
     max-width: 100%;
-    background-image: url('/images/background_wood_decking-grey.jpg');
+    background-image: url('images/background_wood_decking-grey.jpg');
     background-color: #333;
     background-position: center center;
     background-attachment: fixed;
@@ -442,7 +442,7 @@ html {
     position: relative;
 
     max-width: 100%;
-    background-image: url('/images/footer_lodyas.png');
+    background-image: url('images/footer_lodyas.png');
     background-repeat: repeat;
     background-color: #222;
     background-attachment: fixed;
